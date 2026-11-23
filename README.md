@@ -19,8 +19,3 @@ I'm Tolga, a developer building web, desktop and mobile apps with JavaScript, Ty
 - **Web, desktop and mobile apps.** Practical interfaces with JavaScript, TypeScript and React, native Mac, iPhone and iPad apps with Swift, and Windows and Android apps with Tauri.
 - **AI and developer tools.** Exploring how AI can support prototyping, learning and development workflows.
 - **Software quality.** Readable code, thoughtful user experiences and useful documentation.
-
-## Open source contributions
-
-- **[laravel/laravel #6891](https://github.com/laravel/laravel/pull/6891)** (merged): render JSON exceptions for the API root path.
-- **[Nöbetçi](https://github.com/tahap0l/nobetci)**, a desktop app for watching Claude Code sessions and approving their permission requests (Rust, Tauri 2). I'm a collaborator on the project: animated full-body mascots ([#21](https://github.com/tahap0l/nobetci/pull/21)), the 2.1.7 release ([#22](https://github.com/tahap0l/nobetci/pull/22)) and the 2.5.0 audit fixes with a stricter risk engine ([#40](https://github.com/tahap0l/nobetci/pull/40)).
